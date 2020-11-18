@@ -18,8 +18,8 @@ public class VipCustomer{
         //Empty
     }
     public VipCustomer(String VipCustomerName,String emailAddress){
-        this.VipCustomerName = VipCustomerName;
-        this.emailAddress = emailAddress;
+        this.VipCustomerName = "Ahmed";
+        this.emailAddress = "AhmedRadi@gmail.com";
     }
     public VipCustomer(String VipCustomerName,String emailAddress,double creditLimit){
         this.VipCustomerName = VipCustomerName;
